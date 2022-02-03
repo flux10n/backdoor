@@ -1,7 +1,6 @@
-# kringj dek jgn kesini
-# bukan wibu 😎💫
-# tydack kemren 😆😱😱😅
-# ayonima nomer satu 😅😏🤗😱🤬
+# Tools hacking :
+- Buat yang gk punya aja :v
+- klo punya jgn kesini 😎
 
 <pre><b>
       .---.        .-----------
@@ -15,3 +14,4 @@
            '//||\`
              ''``
 </b></pre>
+<mark style="background-color:grey">Tes</mark>
