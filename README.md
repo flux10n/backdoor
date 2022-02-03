@@ -1,4 +1,6 @@
-# sini banh
+# kringj dek jgn kesini
+# bukan wibu 😎💫
+# tydack kemren 😆😱😱😅
 # yg penting upload lur 😜😎
 
 <pre><b>
