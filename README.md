@@ -1,7 +1,7 @@
 # gtw-lah-
 # yg penting upload lur 😜😎
 
-<pre><b><font size="3" color="red">
+<pre><b><font size="5">
       .---.        .-----------
      /     \  __  /    ------
     / /     \(  )/    -----
