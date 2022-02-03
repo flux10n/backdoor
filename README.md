@@ -1,2 +1,14 @@
 # gtw-lah-
-just script kiddie
+# just script kiddie
+# edisi gabut :/
+
+      .---.        .-----------
+     /     \  __  /    ------
+    / /     \(  )/    -----
+   //////   ' \/ `   ---
+  //// / // :    : ---
+ // /   /  /`    '--
+//          //..\   Owned By Cyborg Xploit
+===========UU====UU=======================>
+           '//||\`
+             ''``
