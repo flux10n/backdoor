@@ -1,7 +1,7 @@
 # kringj dek jgn kesini
 # bukan wibu 😎💫
 # tydack kemren 😆😱😱😅
-# yg penting upload lur 😜😎
+# ayonima nomer satu 😅😏🤗😱🤬
 
 <pre><b>
       .---.        .-----------
