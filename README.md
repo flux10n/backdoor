@@ -1,6 +1,6 @@
 # Tools hacking :
 
-Consists of webshell and php tools, python tools and sh I have not posted.
+Sorry I only posted external .php & .html files, I haven't used python and sh yet.
 
 <pre><b>
       .---.        .-----------
