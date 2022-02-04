@@ -1,6 +1,6 @@
 # Tools hacking :
-- Buat yang gk punya aja :v
-- klo punya jgn kesini 😎
+
+Consists of webshell and php tools, python tools and sh I have not posted.
 
 <pre><b>
       .---.        .-----------
