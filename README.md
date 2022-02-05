@@ -2,7 +2,7 @@
 
 Sorry I only posted external .php & .html files, I haven't used python and sh yet.
 - [x] **Sorry if I'm not handsome enough for you :v**
-- [x] ** Find me on <a href="https://google.com">Github</a> & <a href="https://www.google.com">Blogspot</a>**
+- [x] **Tools are not original made by me.**
 <pre><b>
       .---.        .-----------
      /     \  __  /    ------
