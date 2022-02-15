@@ -28,6 +28,8 @@ Silahkan hubungi email saya <a href="https://cyborgxploit@protonmail.com">cyborg
 <a href="https://github.com/xjusthaxor/">#bug</a>
 <a href="https://github.com/xjusthaxor/">#security</a>
 <a href="https://github.com/xjusthaxor/">#ngoding</a>
+<a href="https://github.com/xjusthaxor/">#ngoding</a>
+<a href="https://github.com/xjusthaxor/">#cracking</a>
 
 ### Sh00tz
 <a href="https://www.google.com/">Copyright &copy; 2022 Cyborg Xploit</a>
