@@ -1,4 +1,9 @@
 ## WELCOME TO WIKI!
+### Check the following:
+
+- [ ] I have reviewed my changes in staging (look for "Automatically generated comment" and click **Modified** to view your latest changes).
+- [ ] For content changes, I have completed the [self-review checklist](https://github.com/github/docs/blob/main/contributing/self-review.md#self-review).
+
 Hai perkenalkan saya adalah manusia, dan hobby saya adalah ngehek.
 
 Jika ada website yang rentan saya tidak akan melaporkan tetapi sebaliknya website itu akan saya tebas 🗿.
