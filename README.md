@@ -8,13 +8,6 @@ Kalo tydack suka tydack masalah, but i'm no problem, no what - what wkwkwk :v
 ### Contribute
 Silahkan hubungi email saya <a href="https://cyborgxploit@protonmail.com">cyborgxploit@protonmail.com</a> dan berikan penjelasan anda mengenai website & github saya.
 
-### Tags
-<a href="https://github.com/xjusthaxor/">#hacking</a>
-<a href="https://github.com/xjusthaxor/">#anime</a>
-<a href="https://github.com/xjusthaxor/">#bug</a>
-<a href="https://github.com/xjusthaxor/">#security</a>
-<a href="https://github.com/xjusthaxor/">#ngoding</a>
-
 ### Fitures
 - [Bisa nguasain dunia](#404)
 - [Bisa ngehek nasa 🗿](#404)
@@ -23,10 +16,18 @@ Silahkan hubungi email saya <a href="https://cyborgxploit@protonmail.com">cyborg
   - [Panen shell? tergantung usaha lo :v](#404)
   - [Tykung hasil depes orang tydack diperbolehkan juga!](#404)
 
-### Check the following:
+### Ulasan terakhir
 
-- [ ] I have reviewed my changes in staging (look for "Automatically generated comment" and click **Modified** to view your latest changes).
-- [ ] For content changes, I have completed the [self-review checklist](https://github.com/github/docs/blob/main/contributing/self-review.md#self-review).
+- [ ] To change the content, make sure you have checked all the reviews.
+- [ ] And you have to run if you meet **wibu**.
+- [ ] One more thing, make sure you upload clean and uncensored content. <a href="#404">#pukulpedo</a>
+
+### Tags
+<a href="https://github.com/xjusthaxor/">#hacking</a>
+<a href="https://github.com/xjusthaxor/">#anime</a>
+<a href="https://github.com/xjusthaxor/">#bug</a>
+<a href="https://github.com/xjusthaxor/">#security</a>
+<a href="https://github.com/xjusthaxor/">#ngoding</a>
 
 ### Sh00tz
 <a href="https://www.google.com/">Copyright &copy; 2022 Cyborg Xploit</a>
